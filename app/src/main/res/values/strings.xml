@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3Mpip</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDT8tulhot5LJueNlYdbFpzVJbrmOjwN1o
+    </string>
+</resources>
